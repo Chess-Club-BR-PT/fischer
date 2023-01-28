@@ -5,6 +5,7 @@ The official Discord bot of [Chess Club BR/PT](https://discord.gg/wdP9Cmcz)
 <img src="./images/chessclub_banner.png" width="500">
 
 ## How to contribute
+
 To contribute to this project, you first need to be part of [this organization](https://github.com/Chess-Club-BR-PT).
 
 This repository uses [trunk-based](https://trunkbaseddevelopment.com/) as branching model. Considering this, here are the necessary steps to submit your code:
@@ -18,6 +19,7 @@ This repository uses [trunk-based](https://trunkbaseddevelopment.com/) as branch
 7. After approved, you can merge
 
 ## Conventional Commits
+
 In order to get the maximum benefit of [Github automatic release notes](https://docs.github.com/en/repositories/releasing-projects-on-github/automatically-generated-release-notes), we need to follow [some conventions](https://www.conventionalcommits.org/en/v1.0.0/) for pull request titles, which are our commits on `master`.
 This repo mainly uses the following commit names:
 * `feat:` introduces a new feature to the codebase
