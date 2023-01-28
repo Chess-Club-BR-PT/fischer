@@ -34,3 +34,5 @@ Some examples:
 * `build: add dockerfile`
 * `refactor: separate ping command logic from command method`
 * `test: add unit tests for ping command`
+
+Feel free to use other names, but [keep it simple](https://en.wikipedia.org/wiki/KISS_principle).
